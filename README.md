@@ -7,7 +7,8 @@ Exploração de dados sobre a produção, exportação e importação de vinhos 
 ## 📋 Sumário
 
 - [Contexto & Objetivo](#-contexto--objetivo)  
-- [Fontes de Dados](#-fontes-de-dados)  
+- [Fontes de Dados](#-fontes-de-dados)
+- [Libraries](#-libraries)
 - [Pipeline & Metodologia](#-pipeline--metodologia)  
 - [Limpeza & Pré‑processamento](#-limpeza--pré‑processamento)  
 - [Análise Exploratória](#-análise-exploratória)  
@@ -31,6 +32,15 @@ Você foi responsável por analisar os relatórios iniciais do volume e valor da
 3. **Socioeconômicos**: PIB, renda per capita e população (APIs públicas).  
 4. **Avaliações de vinho**: notas atribuídas por juízes.  
 5. **Outros atributos**: ano de safra, tipo de uva, cor, faixa de preço.
+
+---
+
+## 📚 Libraries
+
+- `pandas` – manipulação e limpeza de dados
+- `matplotlib` – visualização básica
+- `seaborn` – gráficos estatísticos e análises visuais
+- `pathlib` – Manusei de pastas no micro
 
 ---
 
